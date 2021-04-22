@@ -1,0 +1,16 @@
+current directory: /Users/laixuefei/Documents/拉钩教育-iOS开发进阶/XQLaiGou/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+/Users/laixuefei/.rbenv/versions/2.7.1/bin/ruby -I /Users/laixuefei/.rbenv/versions/2.7.1/lib/ruby/2.7.0 -r ./siteconf20210331-21874-jial15.rb extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/laixuefei/Documents/拉钩教育-iOS开发进阶/XQLaiGou/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR=" clean
+
+current directory: /Users/laixuefei/Documents/拉钩教育-iOS开发进阶/XQLaiGou/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR="
+compiling unf.cc
+linking shared-object unf_ext.bundle
+
+current directory: /Users/laixuefei/Documents/拉钩教育-iOS开发进阶/XQLaiGou/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20210331-21874-nya0t2

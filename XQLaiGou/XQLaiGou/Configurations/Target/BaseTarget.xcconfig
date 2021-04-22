@@ -1,0 +1,14 @@
+//
+//  BaseTarget.xcconfig
+//  XQLaiGou
+//
+//  Created by LaiXuefei on 2021/4/2.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+// 保存 Xcode Target 级别的 Build Setting，当前文件共享所有 Target 都需要使用的信息
+
+// App 的名字
+PRODUCT_BUNDLE_NAME = XQLaiGou

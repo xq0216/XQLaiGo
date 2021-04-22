@@ -1,0 +1,17 @@
+//
+//  AppStoreProject.xcconfig
+//  XQLaiGou
+//
+//  Created by LaiXuefei on 2021/4/2.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+// 定义生成环境的Project的配置
+
+// 引入了用于共享的 BaseProject.xcconfig 文件
+#include "BaseProject.xcconfig"
+
+// 定义 Swift 编译条件配置
+SWIFT_ACTIVE_COMPILATION_CONDITIONS = $(inherited) PRODUCTION

@@ -1,0 +1,199 @@
+Script started on Wed Mar 31 17:20:11 2021
+[1m[7m%[27m[1m[0m                                                                                                                      ]2;laixuefei@laixuefeideMacBook-Pro-2: ~/Documents/拉钩教育-iOS开发进阶/XQLaiGou]1;..进阶/XQLaiGou[0m[27m[24m[J[01;32m➜  [36mXQLaiGou[00m [K[?1h=[?2004h[32ml[39m[90ms[39m[32ml[32ms[39m[?1l>[?2004l
+]2;ls -G]1;lsGemfile            [1m[36mXQLaiGou[39;49m[0m           [1m[36mXQLaiGouTests[39;49m[0m      [1m[36mscripts[39;49m[0m            [1m[36mvendor[39;49m[0m
+Gemfile.lock       [1m[36mXQLaiGou.xcodeproj[39;49m[0m [1m[36mXQLaiGouUITests[39;49m[0m    typescript
+[1m[7m%[27m[1m[0m                                                                                                                      ]2;laixuefei@laixuefeideMacBook-Pro-2: ~/Documents/拉钩教育-iOS开发进阶/XQLaiGou]1;..进阶/XQLaiGou[0m[27m[24m[J[01;32m➜  [36mXQLaiGou[00m [K[?1h=[?2004h[4ms[24m[4ms[4mc[24m[4ms[4mc[4mr[24m[4mr[4mi[24m[4mi[4mp[24m[24m[32ms[24m[32mc[24m[32mr[24m[32mi[24m[32mp[32mt[39m[39m[4ms[39m[4mc[39m[4mr[39m[4mi[39m[4mp[39m[4mt[4ms[24m[24m[7ms[24m[7mc[24m[7mr[24m[7mi[24m[7mp[24m[7mt[24m[7ms[27m[27m[4ms[27m[4mc[27m[4mr[27m[4mi[27m[4mp[27m[4mt[27m[4ms[24m[?1l>[?2004l
+]2;scripts]1;scripts[1m[7m%[27m[1m[0m                                                                                                                      ]2;laixuefei@laixuefeideMacBook-Pro-2: ~/Documents/拉钩教育-iOS开发进阶/XQLaiGou/scripts]1;..aiGou/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [K[?1h=[?2004h[32m.[39m[90m.[39m[1m[31m.[1m[31ms[0m[39m[90msh[39m[1m[31m.[1m[31ms[1m[31mh[0m[39m[39m  [1m[31m.[1m[31ms[0m[39m[0m[90ms[90mh[39m[0m[32m.[39m[0m[90m.[39m[39m [39m [39m [39m [32m.[39m[90m.[39m[39m[4m.[39m[4m/[24m[90mscripts/setup.sh[39m[16D[24m[32m.[39m[24m[90m.[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [17D[39m [39m [32m.[39m[90m.[39m[39m[4m.[39m[4m.[24m[?1l>[?2004l
+]2;..]1;..[1m[7m%[27m[1m[0m                                                                                                                      ]2;laixuefei@laixuefeideMacBook-Pro-2: ~/Documents/拉钩教育-iOS开发进阶/XQLaiGou]1;..进阶/XQLaiGou[0m[27m[24m[J[01;32m➜  [36mXQLaiGou[00m [K[?1h=[?2004h[32m.[39m[90m.[39m[39m[4m.[39m[4m/[24m[90mscripts/setup.sh[39m[16D[24m[32m.[24m[32m/[32ms[32mc[32mr[32mi[32mp[32mt[32ms[32m/[32ms[32me[32mt[32mu[32mp[32m.[32ms[32mh[39m[?1l>[?2004l
+]2;./scripts/setup.sh]1;./scripts/setup.shSuccessfully installed bundler-2.2.15
+Parsing documentation for bundler-2.2.15
+Done installing documentation for bundler after 2 seconds
+1 gem installed
+Using rake 13.0.3
+Using CFPropertyList 3.0.3
+Using concurrent-ruby 1.1.8
+Using i18n 1.8.10
+Using minitest 5.14.4
+Using thread_safe 0.3.6
+Using tzinfo 1.2.9
+Using activesupport 5.2.5
+Using public_suffix 4.0.6
+Using addressable 2.7.0
+Using httpclient 2.8.3
+Using json 2.5.1
+Using algoliasearch 1.27.5
+Using atomos 0.1.3
+Using aws-eventstream 1.1.1
+Using aws-partitions 1.438.0
+Using aws-sigv4 1.2.3
+Using jmespath 1.4.0
+Using aws-sdk-core 3.113.1
+Using aws-sdk-kms 1.43.0
+Using aws-sdk-s3 1.93.0
+Using babosa 1.0.4
+Using bundler 2.2.15
+Using claide 1.0.3
+Using fuzzy_match 2.0.4
+Using nap 1.1.0
+Using netrc 0.11.0
+Using ffi 1.15.0
+Using ethon 0.12.0
+Using typhoeus 1.4.0
+Using cocoapods-core 1.10.0
+Using cocoapods-deintegrate 1.0.4
+Using cocoapods-downloader 1.4.0
+Using cocoapods-plugins 1.0.0
+Using cocoapods-search 1.0.0
+Using cocoapods-trunk 1.5.0
+Using cocoapods-try 1.2.0
+Using colored2 3.1.2
+Using escape 0.0.4
+Using fourflusher 2.3.1
+Using gh_inspector 1.1.3
+Using molinillo 0.6.6
+Using ruby-macho 1.4.0
+Using nanaimo 0.3.0
+Using xcodeproj 1.19.0
+Using cocoapods 1.10.0
+Using colored 1.2
+Using highline 1.7.10
+Using commander-fastlane 4.4.6
+Using declarative 0.0.20
+Using declarative-option 0.1.0
+Using digest-crc 0.6.3
+Using unf_ext 0.0.7.7
+Using unf 0.1.4
+Using domain_name 0.5.20190701
+Using dotenv 2.7.6
+Using emoji_regex 3.2.2
+Using excon 0.79.0
+Using faraday-net_http 1.0.1
+Using multipart-post 2.0.0
+Using ruby2_keywords 0.0.4
+Using faraday 1.3.0
+Using http-cookie 1.0.3
+Using faraday-cookie_jar 0.0.7
+Using faraday_middleware 1.0.0
+Using fastimage 2.2.3
+Using jwt 2.2.2
+Using memoist 0.16.2
+Using multi_json 1.15.0
+Using os 1.1.1
+Using signet 0.15.0
+Using googleauth 0.16.0
+Using mini_mime 1.0.3
+Using uber 0.1.0
+Using representable 3.0.4
+Using retriable 3.1.2
+Using google-api-client 0.38.0
+Using rexml 3.2.4
+Using webrick 1.7.0
+Using google-apis-core 0.3.0
+Using google-apis-iamcredentials_v1 0.2.0
+Using google-apis-storage_v1 0.3.0
+Using google-cloud-env 1.5.0
+Using google-cloud-errors 1.1.0
+Using google-cloud-core 1.6.0
+Using google-cloud-storage 1.31.0
+Using mini_magick 4.11.0
+Using plist 3.6.0
+Using rubyzip 2.3.0
+Using security 0.1.3
+Using naturally 2.2.1
+Using simctl 1.6.8
+Using slack-notifier 2.3.2
+Using terminal-notifier 2.0.0
+Using unicode-display_width 1.7.0
+Using terminal-table 1.8.0
+Using tty-screen 0.8.1
+Using tty-cursor 0.7.1
+Using tty-spinner 0.9.3
+Using word_wrap 1.0.0
+Using rouge 2.0.7
+Using xcpretty 0.3.0
+Using xcpretty-travis-formatter 1.0.1
+Using fastlane 2.166.0
+[32mBundle complete! 2 Gemfile dependencies, 104 gems now installed.[0m
+[32mBundled gems are installed into `./vendor/bundle`[0m
+[31m[!] No `Podfile' found in the project directory.[0m
+[1m[7m%[27m[1m[0m                                                                                                                      ]2;laixuefei@laixuefeideMacBook-Pro-2: ~/Documents/拉钩教育-iOS开发进阶/XQLaiGou]1;..进阶/XQLaiGou[0m[27m[24m[J[01;31m➜  [36mXQLaiGou[00m [K[?1h=[?2004hggi[32mg[32mi[32mt[39m[90m ps dev_3.3.30[39m[14D[39m [39mi[90mn[90mi[90mt[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [12D[39mn[39mi[39mt[?1l>[?2004l
+]2;git init]1;gitInitialized empty Git repository in /Users/laixuefei/Documents/拉钩教育-iOS开发进阶/XQLaiGou/.git/
+[1m[7m%[27m[1m[0m                                                                                                                      ]2;laixuefei@laixuefeideMacBook-Pro-2: ~/Documents/拉钩教育-iOS开发进阶/XQLaiGou]1;..进阶/XQLaiGou[0m[27m[24m[J[01;32m➜  [36mXQLaiGou[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h[4mv[24m[24m[32mv[32mi[39m[32mv[32mi[32mm[39m Podfile[11D[39m[7mv[39m[7mi[39m[7mm[7m [7mP[7mo[7md[7mf[7mi[7ml[7me[27m[11D[27m[32mv[27m[32mi[27m[32mm[39m[27m [27mP[27mo[27md[27mf[27mi[27ml[27me[?1l>[?2004l
+]2;vim Podfile]1;vim[?1049h[>4;2m[?1h=[?2004h[1;35r[?12h[?12l[22;2t[22;1t[27m[29m[m[H[2J[?25l[35;1H"Podfile" [New File][2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[2;1H[94m~                                                                                                                     [3;1H~                                                                                                                     [4;1H~                                                                                                                     [5;1H~                                                                                                                     [6;1H~                                                                                                                     [7;1H~                                                                                                                     [8;1H~                                                                                                                     [9;1H~                                                                                                                     [10;1H~                                                                                                                     [11;1H~                                                                                                                     [12;1H~                                                                                                                     [13;1H~                                                                                                                     [14;1H~                                                                                                                     [15;1H~                                                                                                                     [16;1H~                                                                                                                     [17;1H~                                                                                                                     [18;1H~                                                                                                                     [19;1H~                                                                                                                     [20;1H~                                                                                                                     [21;1H~                                                                                                                     [22;1H~                                                                                                                     [23;1H~                                                                                                                     [24;1H~                                                                                                                     [25;1H~                                                                                                                     [26;1H~                                                                                                                     [27;1H~                                                                                                                     [28;1H~                                                                                                                     [29;1H~                                                                                                                     [30;1H~                                                                                                                     [31;1H~                                                                                                                     [32;1H~                                                                                                                     [33;1H~                                                                                                                     [34;1H~                                                                                                                     [1;1H[?25h[?12$p[?25l[m[35;1H[K[35;1H:[?25hwq[?25l[?2004l[>4;m"Podfile" [New] 0L, 0C written[23;2t[23;1t
+[?2004l[?1l>[?25h[>4;m[?1049l[1m[7m%[27m[1m[0m                                                                                                                      ]2;laixuefei@laixuefeideMacBook-Pro-2: ~/Documents/拉钩教育-iOS开发进阶/XQLaiGou]1;..进阶/XQLaiGou[0m[27m[24m[J[01;32m➜  [36mXQLaiGou[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mi[0m[39m[90mOS-linyongjian[39m[14D[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [15D[1m[31mo[0m[39m[90mpen ~/.zshrc[39m[12D[1m[31mo[1m[31mp[0m[39m[1m[31mo[1m[31mp[1m[31me[0m[39m[0m[32mo[0m[32mp[0m[32me[32mn[39m[39m [39mp[39m [39m [39m [39m [39m [39m [39m o [90m~[90m/.zshrc[39m[8D[39m[4mP[24m[39m [39m [39m [39m [39m [39m [39m [4mP[4mo[24m[4mo[4md[24m[24mP[24mo[24mdd[4mP[4mo[4md[24m [4md[4mf[24m[4mf[4mi[24m[4mi[4ml[24m[4ml[4me[24m[?1l>[?2004l
+]2;open Podfile]1;open[1m[7m%[27m[1m[0m                                                                                                                      ]2;laixuefei@laixuefeideMacBook-Pro-2: ~/Documents/拉钩教育-iOS开发进阶/XQLaiGou]1;..进阶/XQLaiGou[0m[27m[24m[J[01;32m➜  [36mXQLaiGou[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h[1m[31mb[0m[39m[1m[31mb[1m[31mu[0m[39m[1m[31mb[1m[31mu[1m[31mn[0m[39m[1m[31mn[1m[31md[0m[39m[1m[31md[1m[31ml[0m[39m[0m[32mb[0m[32mu[0m[32mn[0m[32md[0m[32ml[32me[39m exec pod install[23D[39m[7mb[39m[7mu[39m[7mn[39m[7md[39m[7ml[39m[7me[7m [7me[7mx[7me[7mc[7m [7mp[7mo[7md[7m [7mi[7mn[7ms[7mt[7ma[7ml[7ml[27m[23D[27m[32mb[27m[32mu[27m[32mn[27m[32md[27m[32ml[27m[32me[39m[27m [27me[27mx[27me[27mc[27m [27mp[27mo[27md[27m [27mi[27mn[27ms[27mt[27ma[27ml[27ml[?1l>[?2004l
+]2;bundle exec pod install]1;bundleAnalyzing dependencies
+[31m[!] Unable to find the Xcode project `/Users/laixuefei/Documents/拉钩教育-iOS开发进阶/XQLaiGou/XQLaiGou/XQLaiGou.xcodeproj` for the target `Pods-XQLaiGou`.[0m
+[1m[7m%[27m[1m[0m                                                                                                                      ]2;laixuefei@laixuefeideMacBook-Pro-2: ~/Documents/拉钩教育-iOS开发进阶/XQLaiGou]1;..进阶/XQLaiGou[0m[27m[24m[J[01;31m➜  [36mXQLaiGou[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h[32mbundle[39m exec pod install[?1l>[?2004l
+]2;bundle exec pod install]1;bundleAnalyzing dependencies
+^C[31m[!] Cancelled[0m
+[1m[7m%[27m[1m[0m                                                                                                                      ]2;laixuefei@laixuefeideMacBook-Pro-2: ~/Documents/拉钩教育-iOS开发进阶/XQLaiGou]1;..进阶/XQLaiGou[0m[27m[24m[J[01;31m➜  [36mXQLaiGou[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h[32mbundle[39m exec pod install[?1l>[?2004l
+]2;bundle exec pod install]1;bundleAnalyzing dependencies
+Downloading dependencies
+[32mInstalling Alamofire (5.3.0)[0m
+[32mInstalling DesignKit (1.0.0)[0m
+[32mInstalling Differentiator (4.0.1)[0m
+[32mInstalling Firebase (7.0.0)[0m
+[32mInstalling FirebaseABTesting (7.9.0)[0m
+[32mInstalling FirebaseAnalytics (7.0.0)[0m
+[32mInstalling FirebaseCore (7.0.0)[0m
+[32mInstalling FirebaseCoreDiagnostics (7.3.0)[0m
+[32mInstalling FirebaseCrashlytics (7.0.0)[0m
+[32mInstalling FirebaseInstallations (7.9.0)[0m
+[31m
+[!] Error installing FirebaseInstallations[0m
+[31m[!] /usr/bin/git clone https://github.com/firebase/firebase-ios-sdk.git /var/folders/xd/gz2jgzvd3675cj9zq0cn6jg00000gq/T/d20210331-27539-e3cx93 --template= --single-branch --depth 1 --branch CocoaPods-7.9.0
+
+Cloning into '/var/folders/xd/gz2jgzvd3675cj9zq0cn6jg00000gq/T/d20210331-27539-e3cx93'...
+fatal: unable to access 'https://github.com/firebase/firebase-ios-sdk.git/': Operation timed out after 300012 milliseconds with 0 out of 0 bytes received
+[0m
+[1m[7m%[27m[1m[0m                                                                                                                      ]2;laixuefei@laixuefeideMacBook-Pro-2: ~/Documents/拉钩教育-iOS开发进阶/XQLaiGou]1;..进阶/XQLaiGou[0m[27m[24m[J[01;31m➜  [36mXQLaiGou[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h[32mbundle[39m exec pod install[?1l>[?2004l
+]2;bundle exec pod install]1;bundleAnalyzing dependencies
+Downloading dependencies
+[32mInstalling Alamofire (5.3.0)[0m
+[32mInstalling DesignKit (1.0.0)[0m
+[32mInstalling Differentiator (4.0.1)[0m
+[32mInstalling Kingfisher (5.15.6)[0m
+[32mInstalling Nimble (9.0.0)[0m
+[32mInstalling Quick (3.0.0)[0m
+[32mInstalling RxBlocking (5.1.1)[0m
+[32mInstalling RxCocoa (5.1.1)[0m
+[32mInstalling RxDataSources (4.0.1)[0m
+[32mInstalling RxRelay (5.1.1)[0m
+[32mInstalling RxSwift (5.1.1)[0m
+[32mInstalling RxTest (5.1.1)[0m
+[32mInstalling SnapKit (5.0.1)[0m
+[32mInstalling SwiftGen (6.4.0)[0m
+[32mInstalling SwiftLint (0.42.0)[0m
+Generating Pods project
+Integrating client project
+[32m
+[!] Please close any current Xcode sessions and use `XQLaiGou.xcworkspace` for this project from now on.[0m
+[32mPod installation complete! There are 14 dependencies from the Podfile and 15 total pods installed.[0m
+[33m
+[!] The `XQLaiGouTests [Debug]` target overrides the `ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES` build setting defined in `Pods/Target Support Files/Pods-XQLaiGouTests/Pods-XQLaiGouTests.debug.xcconfig'. This can lead to problems with the CocoaPods installation[0m
+    - Use the `$(inherited)` flag, or
+    - Remove the build settings from the target.
+[33m
+[!] The `XQLaiGouTests [Release]` target overrides the `ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES` build setting defined in `Pods/Target Support Files/Pods-XQLaiGouTests/Pods-XQLaiGouTests.release.xcconfig'. This can lead to problems with the CocoaPods installation[0m
+    - Use the `$(inherited)` flag, or
+    - Remove the build settings from the target.
+[33m
+[!] Your project does not explicitly specify the CocoaPods master specs repo. Since CDN is now used as the default, you may safely remove it from your repos directory via `pod repo remove master`. To suppress this warning please add `warn_for_unused_master_specs_repo => false` to your Podfile.[0m
+[1m[7m%[27m[1m[0m                                                                                                                      ]2;laixuefei@laixuefeideMacBook-Pro-2: ~/Documents/拉钩教育-iOS开发进阶/XQLaiGou]1;..进阶/XQLaiGou[0m[27m[24m[J[01;32m➜  [36mXQLaiGou[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h[32mbundle[39m exec pod install[?1l>[?2004l
+]2;bundle exec pod install]1;bundleAnalyzing dependencies
+Downloading dependencies
+Generating Pods project
+Integrating client project
+[32mPod installation complete! There are 14 dependencies from the Podfile and 15 total pods installed.[0m
+[33m
+[!] The `XQLaiGouTests [Debug]` target overrides the `ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES` build setting defined in `../Pods/Target Support Files/Pods-XQLaiGouTests/Pods-XQLaiGouTests.debug.xcconfig'. This can lead to problems with the CocoaPods installation[0m
+    - Use the `$(inherited)` flag, or
+    - Remove the build settings from the target.
+[33m
+[!] The `XQLaiGouTests [Release]` target overrides the `ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES` build setting defined in `../Pods/Target Support Files/Pods-XQLaiGouTests/Pods-XQLaiGouTests.release.xcconfig'. This can lead to problems with the CocoaPods installation[0m
+    - Use the `$(inherited)` flag, or
+    - Remove the build settings from the target.
+[33m
+[!] Your project does not explicitly specify the CocoaPods master specs repo. Since CDN is now used as the default, you may safely remove it from your repos directory via `pod repo remove master`. To suppress this warning please add `warn_for_unused_master_specs_repo => false` to your Podfile.[0m
+[1m[7m%[27m[1m[0m                                                                                                                      ]2;laixuefei@laixuefeideMacBook-Pro-2: ~/Documents/拉钩教育-iOS开发进阶/XQLaiGou]1;..进阶/XQLaiGou[0m[27m[24m[J[01;32m➜  [36mXQLaiGou[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h

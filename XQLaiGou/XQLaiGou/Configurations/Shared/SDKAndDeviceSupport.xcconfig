@@ -1,0 +1,16 @@
+//
+//  SDKAndDeviceSupport.xcconfig
+//  XQLaiGou
+//
+//  Created by LaiXuefei on 2021/4/2.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+// 保存分享到整个 App 的 Build Setting
+
+// 表示支持的设备，1表示 iPhone
+TARGETED_DEVICE_FAMILY = 1
+// 表示支持 iOS 的最低版本
+IPHONEOS_DEPLOYMENT_TARGET = 14.0

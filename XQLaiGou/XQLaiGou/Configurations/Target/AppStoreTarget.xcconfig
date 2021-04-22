@@ -1,0 +1,17 @@
+//
+//  AppStoreTarget.xcconfig
+//  XQLaiGou
+//
+//  Created by LaiXuefei on 2021/4/2.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+#include "../../../../Pods/Target Support Files/Pods-XQLaiGou/Pods-XQLaiGou.appstore.xcconfig"
+
+#include "BaseTarget.xcconfig"
+
+PRODUCT_BUNDLE_NAME = $(inherited)
+
+PRODUCT_BUNDLE_IDENTIFIER = com.xq.XQLaiGou
