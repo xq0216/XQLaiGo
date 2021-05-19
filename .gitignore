@@ -242,3 +242,5 @@ fastlane/dist
 
 # Keys
 local.keys
+
+/vendor/
