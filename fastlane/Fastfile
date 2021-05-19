@@ -1,0 +1,49 @@
+# This file contains the fastlane.tools configuration
+# You can find the documentation at https://docs.fastlane.tools
+#
+# For a list of all available actions, check out
+#
+#     https://docs.fastlane.tools/actions
+#
+# For a list of all available plugins, check out
+#
+#     https://docs.fastlane.tools/plugins/available-plugins
+#
+
+# Uncomment the line if you want fastlane to automatically update itself
+# update_fastlane
+
+default_platform(:ios)
+
+platform :ios do
+  
+# Development
+  desc "Lint code"
+  # Lane 的实现逻辑放在do和end中间，我们可以调用 fastlane 提供的任意 Action
+  lane :lint_code do
+    puts("Lint code using SwfitLint")
+    # 调用Action：swiftlint
+    swiftlint(
+      mode: :lint,
+      # 以下1、2步，保证 fastlane 使用了统一的 SwiftLint 版本和规则文件
+      # 1、之前使用了 CocoaPods 来安装 SwiftLint，因此要为executable参数指定 SwiftLint 的安装路径
+      executable: "./Pods/SwiftLint/swiftlint", 
+      # 2、把 .swiftlint.yml 文件的所在路径也传递给config_file参数
+      config_file: './XQLaiGou/.swiftlint.yml',
+      raise_if_swiftlint_error: true)
+  end
+
+  lane :format_code do
+  puts("Lint and format code using SwfitLint")
+  # 调用Action：swiftlint
+  swiftlint(
+    mode: :autocorrect,
+     # 以下1、2步，保证 fastlane 使用了统一的 SwiftLint 版本和规则文件
+    # 1、之前使用了 CocoaPods 来安装 SwiftLint，因此要为executable参数指定 SwiftLint 的安装路径
+    executable: "./Pods/SwiftLint/swiftlint", 
+    # 2、把 .swiftlint.yml 文件的所在路径也传递给config_file参数
+    config_file: './XQLaiGou/.swiftlint.yml',
+    raise_if_swiftlint_error: true)
+end
+
+end

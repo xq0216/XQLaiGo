@@ -131,8 +131,10 @@ excluded:
   - Pods
   - "./XQLaiGouTests"
   - "./XQLaiGouUITests"
-  - "./XQLaiGou/MomentsTests"
-  - "./XQLaiGou/MomentsUITests"
+  - "./XQLaiGou/XQLaiGouTests"
+  - "./XQLaiGou/XQLaiGouUITests"
+  - "./vendor"
+  - "./Frameworks"
 
 custom_rules:
   no_hardcoded_strings:
