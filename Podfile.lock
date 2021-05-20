@@ -1,8 +1,10 @@
 PODS:
+  - DesignKit (1.0.0)
   - SwiftGen (6.4.0)
   - SwiftLint (0.42.0)
 
 DEPENDENCIES:
+  - DesignKit (from `./Frameworks/DesignKit`)
   - SwiftGen (= 6.4.0)
   - SwiftLint (= 0.42.0)
 
@@ -11,10 +13,15 @@ SPEC REPOS:
     - SwiftGen
     - SwiftLint
 
+EXTERNAL SOURCES:
+  DesignKit:
+    :path: "./Frameworks/DesignKit"
+
 SPEC CHECKSUMS:
+  DesignKit: 2538711c55dd9588c021a1346b8f1a1b96328a8a
   SwiftGen: 67860cc7c3cfc2ed25b9b74cfd55495fc89f9108
   SwiftLint: 4fa9579c63416865179bc416f0a92d55f009600d
 
-PODFILE CHECKSUM: 403cca018c93166f208b483e78ec7c5eb5d85552
+PODFILE CHECKSUM: 86de561d45c656ac3f50baebdc5a041ccadd12b6
 
 COCOAPODS: 1.10.0
