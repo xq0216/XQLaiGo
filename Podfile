@@ -50,7 +50,9 @@ target 'XQLaiGou' do
   #core_pods
   #thirdparty_pods
   #ui_pods
-  #internal_pods
+  
+  # 内部公共组件库
+  internal_pods
 end
 
 target 'XQLaiGouTests' do

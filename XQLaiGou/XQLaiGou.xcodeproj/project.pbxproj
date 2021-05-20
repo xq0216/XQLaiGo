@@ -233,6 +233,7 @@
 				80B4B976261457CC00F69815 /* Frameworks */,
 				80B4B977261457CC00F69815 /* Resources */,
 				80A8CA98261F047300388BE9 /* Run SwiftLint */,
+				75C43DE20DC8C4BF2C04591A /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -351,6 +352,23 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
+		75C43DE20DC8C4BF2C04591A /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-XQLaiGou/Pods-XQLaiGou-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-XQLaiGou/Pods-XQLaiGou-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-XQLaiGou/Pods-XQLaiGou-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 		80A8CA98261F047300388BE9 /* Run SwiftLint */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
